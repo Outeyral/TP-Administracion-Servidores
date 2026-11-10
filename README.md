@@ -5,7 +5,7 @@ TP-Administracion-Servidores
 - Juan Manuel Galvan  
 - Matias Julian Dvorsky
 - Julián Outeyral
-- Thiago Otero 
 - Renata Pagella
+- Thiago Otero 
 - Tomás Martul Sainz
 
